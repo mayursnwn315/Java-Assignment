@@ -1,0 +1,22 @@
+﻿1.What is Programming Language?
+Ans:A programming language is a formal system designed to communicate instructions to a computer. It provides a set of rules and conventions that programmers use to write source code, which is then translated into machine code or bytecode by a compiler or interpreter. The purpose of programming languages is to enable humans to instruct computers to perform specific tasks or solve problems.
+
+
+2.Why do we need a Programming Language?
+Ans:Programming languages are needed to provide a structured and understandable way for humans to communicate instructions to computers. They enable the development of software, allowing programmers to create applications, websites, and various technological solutions.
+
+
+3.What are the features of Java?
+Ans:Java is a versatile and widely-used programming language with features such as platform independence, object-oriented programming support, robustness, security, multithreading, portability, and dynamic memory allocation. These features contribute to Java's widespread use in various domains.
+
+
+4.What is an 'object'?
+Ans:In programming, an object is an instance of a class. A class is a blueprint or template that defines the attributes and behaviours of objects. Objects encapsulate data and methods, allowing for the organisation and structuring of code.
+
+
+5.What is a 'class'?
+Ans:A class is a blueprint or template for creating objects in object-oriented programming. It defines the attributes (data members) and methods (functions) that the objects instantiated from the class will have.
+
+
+6.Explain about the main() method in Java?
+Ans:The main() method in Java is the entry point for any standalone Java application. It serves as the starting point for the execution of the program. The Java Virtual Machine (JVM) looks for the main() method in the class specified as the starting point and executes the code inside it. The main() method has a specific signature: public static void main(String[] args). Please refer to the previous response for more details.
